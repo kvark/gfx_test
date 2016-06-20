@@ -4,8 +4,8 @@ version = "0.1.0"
 authors = ["Andrey Lesnikov <ozkriff@gmail.com>"]
 
 [dependencies]
-glutin = "^0.5.2"
-gfx_core = "*"
-gfx_device_gl = "*"
+glutin = "0.6"
+gfx_app = "0.2"
 gfx_window_glutin = "*"
 gfx = "*"
+cgmath = "0.7"
